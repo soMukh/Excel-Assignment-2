@@ -1,7 +1,7 @@
 # 🛒 Online Retail Sales Data Analysis  
 
 ## 📌 Project Summary  
-This project analyzes **online retail sales transactions** using **Excel/Google Sheets**.  
+This project analyzes **online retail sales transactions** using **Excel**.  
 The dataset includes product details, pricing, customer regions, and order dates.  
 The main objective is to perform **data cleaning, transformation, revenue analysis, trend exploration, and profit margin calculations** to uncover business insights such as:  
 - High-revenue regions  
@@ -65,7 +65,7 @@ The main objective is to perform **data cleaning, transformation, revenue analys
 ---
 
 ## 🛠️ Tools Used  
-- **Excel / Google Sheets**  
+- **Excel**  
 - Functions: `TRIM`, `UPPER`, `AVERAGE`, `VLOOKUP`, `INDEX`, `MATCH`  
 - PivotTables, Conditional Formatting, Line Charts  
 
